@@ -6,4 +6,4 @@ Go to the root on the repository
 `sudo make build`
 
 ## Example
-An example is provided on the *Example* folder
+An example is provided in *Example* folder
